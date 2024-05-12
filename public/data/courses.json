@@ -1,0 +1,29 @@
+{
+    "courses": [
+      {
+        "id": 101,
+        "name": "Introduction to Computer Science",
+        "department": "Computer Science",
+        "instructor": "Dr. Jane Smith"
+      },
+      {
+        "id": 102,
+        "name": "Advanced Mathematics",
+        "department": "Mathematics",
+        "instructor": "Dr. John Doe"
+      },
+      {
+        "id": 103,
+        "name": "Physics I",
+        "department": "Physics",
+        "instructor": "Dr. Alice Johnson"
+      },
+      {
+        "id": 104,
+        "name": "English Literature",
+        "department": "Humanities",
+        "instructor": "Dr. Bob Brown"
+      }
+    ]
+  }
+  

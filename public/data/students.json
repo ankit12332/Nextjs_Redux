@@ -1,0 +1,26 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "age": 20,
+        "grade": "Sophomore",
+        "major": "Computer Science"
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "age": 22,
+        "grade": "Senior",
+        "major": "Mathematics"
+      },
+      {
+        "id": 3,
+        "name": "Carol Lee",
+        "age": 19,
+        "grade": "Freshman",
+        "major": "Physics"
+      }
+    ]
+  }
+  
